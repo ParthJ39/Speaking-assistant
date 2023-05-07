@@ -7,9 +7,9 @@ Speaking system for the paralyzed people.
 This system is based on the implementation of a sound sensor whose data would be processed by a microcontroller board, and results will be displayed on LCD and stored on cloud services.
 
 <p align="center">
-    ![image](https://user-images.githubusercontent.com/55129071/236695442-1a277637-c484-4526-8d3e-07eec7e2130c.png)
+    <image src = "https://user-images.githubusercontent.com/55129071/236695442-1a277637-c484-4526-8d3e-07eec7e2130c.png"/>
 
-    ![image](https://user-images.githubusercontent.com/55129071/236695500-782db454-04ca-473b-9d7d-7916650817cb.png)
+    <image src = "https://user-images.githubusercontent.com/55129071/236695500-782db454-04ca-473b-9d7d-7916650817cb.png"/>
 </p>
 
 
