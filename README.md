@@ -13,10 +13,6 @@ This system is based on the implementation of a sound sensor whose data would be
     <image src = "https://user-images.githubusercontent.com/55129071/236695500-782db454-04ca-473b-9d7d-7916650817cb.png"/>
 </p>
 
-**This is a copyrighted product**
-
-
-© [Parth, nishit, archana, harish], [2021]. All rights reserved.
 
 
 
