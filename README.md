@@ -13,7 +13,7 @@ This system is based on the implementation of a sound sensor whose data would be
     <image src = "https://user-images.githubusercontent.com/55129071/236695500-782db454-04ca-473b-9d7d-7916650817cb.png"/>
 </p>
 
-[![Project Demo](https://drive.google.com/file/d/17XtairVizFFFU_cUAGQT6L6TOBcHtrIU/view?usp=share_link)](https://drive.google.com/file/d/13M6QptSJq4dhGiiaXtXpGrVbLRphDsqo/view?usp=share_link)
+[![Project Demo](https://github.com/ParthJ39/Speaking-assistant/blob/main/Screenshot%202023-05-08%20001317.jpg)](https://drive.google.com/file/d/13M6QptSJq4dhGiiaXtXpGrVbLRphDsqo/view?usp=share_link)
 
 
 
