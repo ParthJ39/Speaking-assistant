@@ -16,6 +16,7 @@ This system is based on the implementation of a sound sensor whose data would be
 [![Project Demo]()](https://drive.google.com/file/d/13M6QptSJq4dhGiiaXtXpGrVbLRphDsqo/view)
 
 [**Research Paper**](https://github.com/ParthJ39/Speaking-assistant/blob/main/paraspeaking_paper.pdf)
+
 [**Copyright Report**](https://github.com/ParthJ39/Speaking-assistant/blob/main/Report.pdf)
 
 
